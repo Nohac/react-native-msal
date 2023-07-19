@@ -41,7 +41,7 @@
   "homepage": "https://github.com/stashenergy/react-native-msal#readme",
   "dependencies": {
     "@azure/msal-browser": "^2.1.0",
-    "@expo/config-plugins": "^4.0.6"
+    "@expo/config-plugins": "^7.2.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
@@ -50,7 +50,7 @@
     "@types/jest": "^27.0.2",
     "@types/react": "^17.0.5",
     "@types/react-native": "^0.66.1",
-    "eslint": "^7.26.0",
+    "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "expo-module-scripts": "^2.0.0",
