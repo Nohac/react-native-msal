@@ -5,6 +5,9 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "source": "src/index",
+  "files": [
+    "build/**/*"
+  ],
   "scripts": {
     "build": "expo-module build",
     "clean": "expo-module clean",
