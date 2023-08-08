@@ -6,7 +6,12 @@
   "types": "build/index.d.ts",
   "source": "src/index",
   "files": [
-    "build/**/*"
+    "build/**/*",
+    "android/**/*",
+    "ios/**/*",
+    "plugin/**/*",
+    "scripts/**/*",
+    "src/**/*"
   ],
   "scripts": {
     "build": "expo-module build",
